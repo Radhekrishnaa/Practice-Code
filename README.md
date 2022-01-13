@@ -1,6 +1,7 @@
 # DSA
 ## Implementation of various data structures and algorithms.
 
-Also codes which I practiced while learning c language
+Also the codes which I wrote while learning c ,c++ and java languge.
+
 Solving different questions on different data structures & algorithms.
 
