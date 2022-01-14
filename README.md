@@ -1,5 +1,4 @@
-# DSA
-## Implementation of various data structures and algorithms.
+#PROJECTS and CODES written by me :)
 
 Solving different questions on different data structures & algorithms.
 
