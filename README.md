@@ -1,4 +1,4 @@
- # **PROJECTS and CODE** 
+ # **PROJECTS and their CODE** 
 # IN JAVA-C-C++ LANGUAGES
 
 IN this repository i have uploaded the programs and project which i made while learning the given languages.
